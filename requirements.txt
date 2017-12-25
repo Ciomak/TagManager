@@ -1,0 +1,6 @@
+mutagen==1.39
+pip==9.0.1
+PyQt5==5.9.2
+setuptools==38.2.5
+sip==4.19.6
+wheel==0.30.0
